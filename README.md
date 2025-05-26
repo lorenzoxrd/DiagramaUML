@@ -1,4 +1,4 @@
-**Paso 2 Diagrama de clases UML**  
+#**Paso 2 Diagrama de clases UML**  
 Para este paso deberás considerar el siguiente escenario:
 
 Una empresa está organizada en departamentos. Cada departamento tiene un nombre único, un número único. Cada departamento tiene un gerente, que es un empleado. Realizamos un seguimiento de la fecha de inicio cuando ese empleado comenzó a administrar el departamento.
